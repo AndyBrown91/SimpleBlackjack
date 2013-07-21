@@ -1,4 +1,4 @@
-SimpleCardGames
+Simple Blackjack
 ===============
 
-Simple card games created in a couple of hours as something to do
+Simple Blackjack game created in a couple of hours as something to do
